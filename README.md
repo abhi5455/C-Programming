@@ -1,5 +1,5 @@
-# C-Programming
-## KTU S2 C Lab
+## C-Programming
+### KTU S2 C Lab
 ### Cycle-1 
 1. Find the roots of a quadratic equation in the form ax^2 + bx + c = 0.   (if .. else) 
 2. Input a month number and display the number of days in that month.  (switch) 
