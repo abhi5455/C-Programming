@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h>
-//not completed exchangesort
 int main(){
     int n,i,j;
     char str[20][20],temp[20];
