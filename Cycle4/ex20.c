@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<math.h>
-//NOT COMPLETED
 int factorial(int n) {
     if (n <= 1)
         return 1;
